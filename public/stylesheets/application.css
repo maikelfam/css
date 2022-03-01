@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(196, 197, 186, 0.178);
+}
+
+h1 {
+    color: red;
+    font-size: 70px;
+}
+p {
+    font-size: 36px;
+    color: purple;
+}
+p a {
+    color: rgb(255, 192, 203);
+}
+#boba {
+    color: green;
+}
+.taco {
+    color: brown;
+}
